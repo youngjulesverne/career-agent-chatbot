@@ -1,0 +1,11 @@
+My name is Rafael Hasanov. I'm from Baku, Azerbaijan, and I live in Nuremberg, Germany.
+
+I'm an M.Sc. Data Science student at FAU Erlangen-Nürnberg, focusing on AI and machine learning. I hold a B.Sc. in Computer Science from Constructor University Bremen, where I specialized in AI, computer vision, robotics and human-computer interaction. My bachelor's thesis was an algorithm in Python for detecting periodic orbits in the chaotic Lorenz system using symbolic dynamics.
+
+I worked as an AI intern at Uzuner Consulting in Bremen, in the Healthcare Competence Center, where I built a retrieval-augmented healthcare chatbot with Python, GPT-4o mini, ChromaDB, SQLite and Gradio.
+
+I'm currently looking for a Werkstudent position in AI or machine learning in the Nuremberg/Erlangen area. My long-term goal is to found my own AI company.
+
+I speak English, German, Russian, Azerbaijani and Turkish.
+
+Outside of tech, I'm really into football and music. I like to keep things short and to the point and give straightforward answers.

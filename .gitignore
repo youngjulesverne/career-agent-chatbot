@@ -1,0 +1,16 @@
+# Secrets and local data
+.env
+qa.db
+me/linkedin.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+*.ipynb
+.ipynb_checkpoints/
